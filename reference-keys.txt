@@ -39,7 +39,7 @@ einlesen-und-speichern-von-daten
 datensätze-dat-anschauen
 häufigkeit-von-factorlevels
 datenaufbereitung-mit-dplyr
-einführung-in-dplyr-und-tidyverse
+einführung-1
 dplyr-die-wichtigsten-befehle
 beispiel-filtern-von-beobachtungen-mit-filter
 filtern-von-strings-factors
@@ -71,7 +71,3 @@ koordinatensysteme
 farbskalen
 variablenskalen
 facetten
-zwischenübungen
-lösung-zwischenübungen
-aufgaben-bis-zum-nächsten-mal
-lösung-aufgaben-bis-zum-nächsten-mal
